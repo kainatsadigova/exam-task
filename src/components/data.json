@@ -1,0 +1,30 @@
+{
+    "meals": [
+        {
+        "id": "1",
+        "price": 29.4,
+        "content":"Udon Noodles With Vegetables"
+    },
+    {
+        "id": "2",
+        "price": 79.5,
+        "content":"Udon Noodles With Vegetables"
+    },
+    {
+        "id": "3",
+        "price": 23.5,
+        "content":"Udon Noodles With Vegetables"
+    },
+    {
+        "id": "4",
+        "price": 29.5,
+        "content":"Udon Noodles With Vegetables"
+    },
+    {
+        "id": "5",
+        "price": 79.5,
+        "content":"Udon Noodles With Vegetables"
+    }
+    ]
+
+}
